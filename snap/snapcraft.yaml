@@ -8,7 +8,7 @@ confinement: classic # use 'strict' once you have the right plugs and slots
 
 apps:
   dbeaver:
-    command: dbeaverce
+    command: dbeaver
     desktop: dbeaver.desktop
     plugs: [home, network]
 
