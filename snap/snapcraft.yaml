@@ -1,5 +1,5 @@
 name: dbeaver # you probably want to 'snapcraft register <name>'
-version: '6.1.1'
+version: '6.0.0'
 summary: Universal SQL Client 
 description: |
   Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, MariaDB, SQLite, Oracle, DB2, SQL Server, Sybase, MS Access, Teradata, Firebird, Derby, etc.
