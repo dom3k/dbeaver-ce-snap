@@ -1,4 +1,4 @@
-name: dbeaver # you probably want to 'snapcraft register <name>'
+name: dbeaverce # you probably want to 'snapcraft register <name>'
 version: '6.0.0'
 summary: Universal SQL Client 
 description: |
